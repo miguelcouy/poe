@@ -1,0 +1,39 @@
+[
+    {
+    "CodUsina": "",
+    "Usina": "",
+    "informações gerais":
+        {
+            "Subsistema": "",
+            "Bacia hidrográfica": "",
+            "Calha": "",
+            "Posto": "",
+            "Posto BGD": "",
+            "Usinas à Montante": "",
+            "Usinas à Jusante": "",
+            "Desvio": ""
+        },
+
+    "Volumes e Cotas":
+        {
+            "Vol Max (hm3)": "",
+            "Vol Min (hm3)": "",
+            "Cota Max (m)": "",
+            "Cota Min (m)": "",
+            "Vol Vert (hm3)": "",
+            "Vol Desv (hm3)": ""
+        },
+    
+    "Polinomio Cota-Volume":
+        {
+            "PCV1":"",
+            "PCV2":"",
+            "PCV3":"",
+            "PCV4":""
+
+        }
+
+    }
+]
+
+
